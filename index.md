@@ -4,6 +4,8 @@ title: CloudMessages
 
 # CloudMessages
 
+![CloudMessages logo](/assets/images/cloudmessages-logo.png)
+
 A normalised message model for modern distributed systems:
 
 - CloudEvents for facts
