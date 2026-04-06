@@ -1,6 +1,6 @@
-# cloudmessages/website
+# cloudmessages/cloudmessages.github.io
 
-This repository contains the GitHub Pages website for CloudMessages.
+This repository contains the GitHub Pages website for CloudMessages and serves as the organisation site repository.
 
 Current maturity: initial Jekyll-ready site content for a draft standards initiative.
 
